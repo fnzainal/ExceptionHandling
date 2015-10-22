@@ -1,7 +1,7 @@
 package tryCatch;
 /**
  * Exception Handling
- * @author Zainal Fahrudin
+ * @writer Zainal Fahrudin
  * Pondok Programmer, 17 Oct 2015
  */
 
